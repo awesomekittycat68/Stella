@@ -4,4 +4,4 @@
 > oh yeah, removed all of the stuff that was rude to leak so yeah (private key, jwt token secret, mongodb connection url, ect.)  
 > also star the repo if you like this, i want stars 🥺  
 > fuck you supergamer ✌️  
-> discord.gg/vanillarec
+> discord.gg/vanillarec is just better 😭
